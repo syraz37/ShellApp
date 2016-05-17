@@ -8,7 +8,7 @@
   },
   "keywords": [ "grunt", "frontend", "angularJS", "SASS", "Require", "Node", "Express", "Mongo"],
   "author": "Suraj Shrestha",
-  "license": "ISC",
+  "license": "GNU",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "^0.5.1",

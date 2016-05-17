@@ -4,13 +4,23 @@
   "description": "Basic Shell App using Grunt, AngularJS, SASS, Require, Node, Express, Mongo.",
   "main": "index.html",
   "scripts": {
-    "test": "test"
+    "postinstall": "bower install"
   },
-  "keywords": [ "grunt", "frontend", "angularJS", "SASS", "Require", "Node", "Express", "Mongo"],
+  "keywords": [
+    "grunt",
+    "frontend",
+    "angularJS",
+    "SASS",
+    "Require",
+    "Node",
+    "Express",
+    "Mongo"
+  ],
   "author": "Suraj Shrestha",
   "license": "GNU",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-concat": "^0.5.1",
     "grunt-contrib-copy": "^0.8.1",
     "grunt-contrib-jshint": "^0.11.3",

@@ -1,0 +1,31 @@
+{
+  "name": "shell-app",
+  "description": "Basic Shell App using Grunt, AngularJS, SASS, Require, Node, Express, Mongo.",
+  "main": "index.html",
+  "authors": [
+    "Suraj Shrestha"
+  ],
+  "license": "GNU",
+  "keywords": [
+    "grunt",
+    "frontend",
+    "angularJS",
+    "SASS",
+    "Require",
+    "Node",
+    "Express",
+    "Mongo"
+  ],
+  "homepage": "/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
